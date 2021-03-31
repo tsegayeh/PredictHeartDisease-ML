@@ -7,7 +7,6 @@ This work is an extension of my final project I submitted to UCLA Data Science p
 * GLM, <br />
 * Naive Bayes, and <br />
 * SVM.<br />
-<br />
 The [eXtreme Gradient Boost](https://github.com/tsegayeh/ml_models_in_R/blob/main/Part_2.1_Models_XGBoost.R) model was found to be superior, with an accuracy of 0.9681 and AUC value of 0.9123, followed by Decision Tree model whose accuracy was 0.9236 and AUC value of 0.8833. <br />
 <br />
 Your review and comments will be highly appreciated.
