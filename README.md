@@ -8,5 +8,5 @@ This work is an extension of my final project that I submitted to UCLA Data Scie
 * [Naive Bayes](https://github.com/tsegayeh/ml_models_in_R/blob/main/Part_2.4_NaiveB.R), and <br />
 * [SVM](https://github.com/tsegayeh/ml_models_in_R/blob/main/Part_2.6_SVM.R) <br />
 
-I considered the [eXtreme Gradient Boost](https://github.com/tsegayeh/ml_models_in_R/blob/main/Part_2.1_Models_XGBoost.R) model as superior in prediction, with an accuracy of 97% and covering 91% of the Area Under the Curve (AUC), followed by the [Decision Tree](https://github.com/tsegayeh/ml_models_in_R/blob/main/Part_2.2_DecisionTree.R) model, the accuracy of which was 92% and covered 88% of the AUC. <br /><br />
+I considered [eXtreme Gradient Boost](https://github.com/tsegayeh/ml_models_in_R/blob/main/Part_2.1_Models_XGBoost.R) model as superior in prediction, with an accuracy of 97% and covering 91% of the Area Under the Curve (AUC), followed by the [Decision Tree](https://github.com/tsegayeh/ml_models_in_R/blob/main/Part_2.2_DecisionTree.R) model, the accuracy of which was 92% and covered 88% of the AUC. <br /><br />
 Your review and comments will be highly appreciated.<br />
