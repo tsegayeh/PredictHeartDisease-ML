@@ -1,6 +1,6 @@
 # ML_models_R
  Predicting heart disease: Comparison of six ML algorithms
-This work is an extension of my final project I submitted to UCLA Data Science program in late 2020. The dataset heart.dat was obtained from the UCI Machine Learning Repository. I have implemented the following six algorithms with the heart data to predict the presence or absence of heart disease in patients:<br /> 
+This work is an extension of my final project I submitted to UCLA Data Science program towards the end of 2020. The dataset heart.dat was obtained from the UCI Machine Learning Repository. I have implemented the following six algorithms with the heart data to predict the presence or absence of heart disease in patients:<br /> 
 * eXtreme Gradient Boost,<br /> 
 * Decision Tree, <br />
 * Random Forest, <br />
