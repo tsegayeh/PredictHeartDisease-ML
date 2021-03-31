@@ -4,7 +4,7 @@ This work is an extension of my final project that I submitted to UCLA Data Scie
 * [eXtreme Gradient Boost](https://github.com/tsegayeh/ml_models_in_R/blob/main/Part_2.1_Models_XGBoost.R),<br /> 
 * [Decision Tree](https://github.com/tsegayeh/ml_models_in_R/blob/main/Part_2.2_DecisionTree.R), <br />
 * [Random Forest](https://github.com/tsegayeh/ml_models_in_R/blob/main/Part_2.3_RandomF.R), <br />
-* GLM, <br />
+* [GLM](https://github.com/tsegayeh/ml_models_in_R/blob/main/Part_2.4_GLM.R), <br />
 * Naive Bayes, and <br />
 * SVM <br />
 
