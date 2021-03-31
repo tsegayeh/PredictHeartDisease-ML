@@ -303,6 +303,7 @@
           
       # b. merge the 6 standardized numeric variables, the 7 categorical tables, and 
           #   the target variable (hrtDisease) before one-hot-coding
+          categ7vars <- hrt[c(2,3,6,7,9,11,13)]
           hrtData <-  cbind(hrt6Numeric, categ7vars) 
           hrtData$hrtDisease <-hrt$hrtDisease
           str(hrtData)
