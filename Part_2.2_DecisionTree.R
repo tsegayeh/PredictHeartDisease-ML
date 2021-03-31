@@ -13,7 +13,6 @@ library(rpart)
 library(pROC) 
 library(ROCR)
 
-
 # Shuffle records
 set.seed(333)
 shuffle_index <- sample(1:nrow(hrt_Dtree))
